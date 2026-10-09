@@ -1,10 +1,15 @@
 @charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
 
-
-
+.abril-fatface-regular {
+  font-family: "Abril Fatface", serif;
+  font-weight: 400;
+  font-style: normal;
+}
 
 .Negrito{
         font-weight: bold;
+        color: #A65353;
 }
 
 body{
@@ -18,10 +23,9 @@ main{
         
         font-family: Arial, Helvetica, sans-serif;
         background-color: white;
-        width: 800px;
-        border-radius: 20px;
         box-shadow: 5px 5px 5px black; 
         border-radius: 10px;
+        width: 800px; 
         margin: auto;
         padding: 10px;
 
@@ -32,9 +36,10 @@ li{
 }
 
 h1,h2{
-        color: ;
+        color:#23C9CC ;
         text-align: center;
-        text-shadow: 0.5px 0.5px 0.5px black;
+        text-shadow: 0.5px 0.5px 0.5px #167e80a9;
+        font-family: "Abril Fatface", serif;
 }
 
 
