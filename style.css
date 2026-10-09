@@ -1,39 +1,38 @@
 @charset "UTF-8";
 
 
-head{
-        text-align: center;
-        max-width: 800px;
-        margin: 0 auto;
-        border: 0.px solid #0c0303;
-        padding: 10px;
 
 
+.Negrito{
+        font-weight: bold;
 }
+
 body{
         background-image: url(imagens/images.jpeg);
         background-size: cover;
         height: 92vh;
 
-
-
 }
+
 main{
         background-color: white;
-        text-align: center;
-        max-width: 800px;
-        margin: 0 auto;
-        padding: 10px;
+        width: 800px;
         border-radius: 16px;
-        box-shadow: 10px 10px 10px black;
-        padding: 10;
-     
+        box-shadow: 10px 10px 10px black; 
+        border-radius: 10px;
+        margin: auto;
+        padding: 10px;
+
 }
 li{
         text-align: left;
+        
 }
 
+h1,h2{
+        text-align: center;
 
+}
 
 
 
